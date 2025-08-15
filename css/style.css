@@ -205,19 +205,23 @@ text-align: center;
 padding-top: 70px;
 font-size: 40px;
 color: #770b0b;
+ padding-right: 80px;
 }
 .hrwelcome{
     width: 90px;
    border: 2px solid #e2102f;
     margin: auto;
     margin-top: 10px;
+    margin-left:640px;
     
 }
 .welcome-Section{
     overflow: auto;
     width: 100%;
-    height: 100vh;
+    height: 80vh;
     text-transform: capitalize;
+    padding-left: 90px;
+
 }
 .sec2div1{
    float: left;
@@ -297,6 +301,7 @@ color:#e2102f ;
     background-color: #fce4ec;
     height: 100vh;
     overflow: auto;  
+    padding-left: 90px;
 
 }
 .h2sec3{
@@ -305,6 +310,7 @@ color:#e2102f ;
     font-size: 40px;
     text-transform: capitalize;
     color: #770b0b;
+     padding-right: 80px;
     }
 .sec3div1{
     float: left;
